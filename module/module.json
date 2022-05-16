@@ -1,0 +1,78 @@
+{
+    "name": "wagham-compendium",
+    "title": "Wagham Compendium",
+    "description": "A module containing the compendiums of objects and spells used by Il Regno di Wagham",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Il Regno di Wagham",
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Adventuring Gear",
+            "module": "wagham-compendium",
+            "path": "packs/world-adventuring-gear-1652701972758.db",
+            "name": "world-adventuring-gear-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Common Magic Item (T1)",
+            "module": "wagham-compendium",
+            "path": "packs/world-common-magic-item-t1-1652701972758.db",
+            "name": "world-common-magic-item-t1-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Uncommon Magic Item (T2)",
+            "module": "wagham-compendium",
+            "path": "packs/world-uncommon-magic-item-t2-1652701972758.db",
+            "name": "world-uncommon-magic-item-t2-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Rare Magic Item (T3)",
+            "module": "wagham-compendium",
+            "path": "packs/world-rare-magic-item-t3-1652701972758.db",
+            "name": "world-rare-magic-item-t3-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Very/Ultra Rare Magic Item (T4)",
+            "module": "wagham-compendium",
+            "path": "packs/world-veryultra-rare-magic-item-t4-1652701972758.db",
+            "name": "world-veryultra-rare-magic-item-t4-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Legendary Magic Item (T5)",
+            "module": "wagham-compendium",
+            "path": "packs/world-legendary-magic-item-t5-1652701972758.db",
+            "name": "world-legendary-magic-item-t5-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Wagham Spells",
+            "module": "wagham-compendium",
+            "path": "packs/world-wagham-spells-1652701972758.db",
+            "name": "world-wagham-spells-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Cursed Items",
+            "module": "wagham-compendium",
+            "path": "packs/world-cursed-items-1652701972758.db",
+            "name": "world-cursed-items-1652701972758"
+        },
+        {
+            "type": "Item",
+            "label": "Homebrew",
+            "module": "wagham-compendium",
+            "path": "packs/world-homebrew-1652701972758.db",
+            "name": "world-homebrew-1652701972758"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/TestaDiRapa/foundryvtt-wagham-compendium/main/module.json",
+    "download": ""
+}
